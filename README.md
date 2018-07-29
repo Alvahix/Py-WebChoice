@@ -15,7 +15,11 @@ To run this program, you will need:
 Once ran, a gui will appear. Input desired site or use speed buttons. If the name of the speedbuttons is inserted into the entry field, more options will becomme available. 
 
 Ex:
+
 >>> Reddit
+
 Which subreddit would you like to view?
+
 >>> python
+
 Program will open www.reddit.com/r/python
